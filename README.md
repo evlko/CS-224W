@@ -15,6 +15,10 @@ Social and Information Network Analysis
 * Modularity;
 * Centrality.
 
+## Lab 3: Text Analysis
+* From [CS-493](https://github.com/evlko/CS-493): preprocessing (tokenization, lemmatization, stemming, stopwords, etc), vectorizers (ngrams, bag of words, td-idf), Naive Bayes Classificator;
+* [Optuna](https://optuna.org) - hyperparameter optimization framework to automate hyperparameter search;
+* textblob for sentiment analysis.
 
 ## Useful Recources
 * [General Functions & Preprocessing](https://github.com/dashapopova/Preprocessing/blob/master/Networkx.md)
