@@ -20,6 +20,14 @@ Social and Information Network Analysis
 * [Optuna](https://optuna.org) - hyperparameter optimization framework to automate hyperparameter search;
 * textblob for sentiment analysis.
 
+## Lab 4.2: Text Modeling
+* Standard preprocessing;
+* Gensim for Text Modeling (LDA, CV);
+* pyLDAvis for visualization.
+
 ## Useful Recources
 * [General Functions & Preprocessing](https://github.com/dashapopova/Preprocessing/blob/master/Networkx.md)
 * [About Modularity](https://youtube.com/watch?v=Q_kJGm1xf6s)
+* [About LDA](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+* [Production LDA](https://habr.com/ru/articles/417167/) 
+* [When Coherence Score Is Good or Bad in Topic Modeling?](https://www.baeldung.com/cs/topic-modeling-coherence-score)
