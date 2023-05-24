@@ -20,10 +20,16 @@ Social and Information Network Analysis
 * [Optuna](https://optuna.org) - hyperparameter optimization framework to automate hyperparameter search;
 * textblob for sentiment analysis.
 
-## Lab 4.2: Text Modeling
+## Lab 4
+### Lab 4.1: Text Generation
+* Simple text generation with Keras: LSTM, Dropout, Dense, Activation, Embedding layers are used.
+### Lab 4.2
+#### Lab 4.2.1: Topic Modeling
 * Standard preprocessing;
 * Gensim for Text Modeling (LDA, CV);
 * pyLDAvis for visualization.
+#### Lab 4.2.2: Text Generation with GPT-2
+* 
 
 ## Useful Recources
 * [General Functions & Preprocessing](https://github.com/dashapopova/Preprocessing/blob/master/Networkx.md)
