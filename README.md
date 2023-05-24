@@ -37,3 +37,4 @@ Social and Information Network Analysis
 * [About LDA](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 * [Production LDA](https://habr.com/ru/articles/417167/) 
 * [When Coherence Score Is Good or Bad in Topic Modeling?](https://www.baeldung.com/cs/topic-modeling-coherence-score)
+* [Understanding Topic Coherence Measures](https://towardsdatascience.com/understanding-topic-coherence-measures-4aa41339634c)
