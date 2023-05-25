@@ -29,7 +29,9 @@ Social and Information Network Analysis
 * Gensim for Text Modeling (LDA, CV);
 * pyLDAvis for visualization.
 #### Lab 4.2.2: Text Generation with GPT-2
-* 
+* Using GPT-2;
+* Model fine-tunning: encoders, decoders, tokenization, special tokens, etc;
+* Model production: saving & loading / training & evaluating
 
 ## Useful Recources
 * [General Functions & Preprocessing](https://github.com/dashapopova/Preprocessing/blob/master/Networkx.md)
@@ -38,3 +40,4 @@ Social and Information Network Analysis
 * [Production LDA](https://habr.com/ru/articles/417167/) 
 * [When Coherence Score Is Good or Bad in Topic Modeling?](https://www.baeldung.com/cs/topic-modeling-coherence-score)
 * [Understanding Topic Coherence Measures](https://towardsdatascience.com/understanding-topic-coherence-measures-4aa41339634c)
+* [Text generation with GPT-2](https://www.modeldifferently.com/en/2021/12/generación-de-fake-news-con-gpt-2/#1-introduction)
