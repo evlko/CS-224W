@@ -41,3 +41,6 @@ Social and Information Network Analysis
 * [When Coherence Score Is Good or Bad in Topic Modeling?](https://www.baeldung.com/cs/topic-modeling-coherence-score)
 * [Understanding Topic Coherence Measures](https://towardsdatascience.com/understanding-topic-coherence-measures-4aa41339634c)
 * [Text generation with GPT-2](https://www.modeldifferently.com/en/2021/12/generación-de-fake-news-con-gpt-2/#1-introduction)
+* [Andrei Raigorodskii: Web-graph models](https://www.youtube.com/live/9RSFmpGhRhc?feature=share)
+* [Analyze Net with Graphs](https://habr.com/ru/articles/516514/)
+* [HSE Social Networks: Theory and Applications](http://leonidzhukov.net/hse/2014/socialnetworks/)
